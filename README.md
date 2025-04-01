@@ -13,7 +13,7 @@ Ce projet met en pratique les concepts de la programmation orientée objet (POO)
 
 ## Démo en ligne (Live Demo)
 Vous pouvez tester l'application directement en ligne via GitHub Pages :
-[ Cliquez ici pour voir le projet](Insérez_votre_lien_GitHub_Pages_ici)
+[ Cliquez ici pour voir le projet](https://ennigro.github.io/Bee-Spider/)
 
 ## Structure du projet
 - `index.html` : La page principale contenant le formulaire de sélection.
